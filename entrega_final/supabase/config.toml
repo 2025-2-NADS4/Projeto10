@@ -1,0 +1,4 @@
+project_id = "vovyookhzpaqekvremhb"
+
+[functions.datia-assistant]
+verify_jwt = false
