@@ -43,20 +43,6 @@ Código-fonte principal do projeto, dividido em Backend (API) e Frontend (app mo
 📖 README.MD - Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.😊
 
 
-## 📖 Documentações por Entrega e Disciplina
-
-### 📦 Entrega 1
-
-
----
-
-### 📦 Entrega 2
-
-
-
----
-
-
 
 🧰 Ferramentas de Desenvolvimento
 
@@ -145,10 +131,12 @@ http://localhost:5173
   
 * 26/08/2025
     * Realizamos a análise do projeto e foi discutido em aula o que será desenvolvido a longo do projeto
-* 22/04/2025
-    * Segunda alteração*
-*  17/05/2025
-    * Terceira alteração*
+* 22/09/2025
+    * Segunda alteração, onde decidimos quais dados csv iriamos análisar.
+*  17/10/2025
+    * Terceira alteração, focando nos arquivos csv e análise dos dados.
+*  10/11/2025
+    * Quarta e última alteração, priorizando a finalização do site junto com a entrega das documentações.
 
 
  
